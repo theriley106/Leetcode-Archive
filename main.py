@@ -32,4 +32,5 @@ if __name__ == '__main__':
 		text_file.write(remove_comments("tmp").strip())
 	fileName = str(page.title.string).replace(" ", "-").partition("---")[0]
 	os.system("autopep8 tmp2.py --in-place")
-	os.system("carbon-now tmp2.py -t {}".format(fileName))
+	os.system("carbon-now tmp2.py -t screenshots/{}".format(fileName))
+	os.system("mv tmp2.py code/{}.py".format(fileName))
