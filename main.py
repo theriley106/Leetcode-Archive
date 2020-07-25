@@ -4,6 +4,48 @@ import removeComments
 import ast, astunparse
 import sys
 import os
+import datetime
+
+def convert_date(relative):
+    #using simplistic year (no leap months are 30 days long.
+    #WARNING: 12 months != 1 year
+    if 'minutes' in relative:
+    	return datetime.datetime.today().strftime('%B %Y')
+    unit_mapping = [('mic', 'microseconds', 1),
+                    ('millis', 'microseconds', 1000),
+                    ('sec', 'seconds', 1),
+                    ('day', 'days', 1),
+                    ('week', 'days', 7),
+                    ('mon', 'days', 30),
+                    ('year', 'days', 365)]
+    try:
+        tokens = relative.lower().split(' ')
+        past = False
+        if tokens[-1] == 'ago':
+            past = True
+            tokens =  tokens[:-1]
+        elif tokens[0] == 'in':
+            tokens = tokens[1:]
+
+
+        units = dict(days = 0, seconds = 0, microseconds = 0)
+        #we should always get pairs, if not we let this die and throw an exception
+        while len(tokens) > 0:
+            value = tokens.pop(0)
+            if value == 'and':    #just skip this token
+                continue
+            else:
+                value = float(value)
+
+            unit = tokens.pop(0)
+            for match, time_unit, time_constant in unit_mapping:
+                if unit.startswith(match):
+                    units[time_unit] += value * time_constant
+        return (datetime.datetime.today() - datetime.timedelta(**units)).strftime('%B %Y')
+
+    except Exception as e:
+    	print relative
+        raise ValueError("Don't know how to parse %s: %s" % (relative, e))
 
 def get_question():
 	# Example URL: https://leetcode.com/submissions/detail/365778560/
@@ -20,6 +62,7 @@ def remove_comments(fileName):
 
 def get_code_for_question(page):
 	print page.title.string
+	print(convert_date(page.select("#result_date")[0].getText()))
 	question = str(page).partition("submissionCode: '")[2].partition("editCodeUrl")[0][::-1].partition("'")[2][::-1]
 	return question.decode('unicode_escape').replace('\\', '')
 
