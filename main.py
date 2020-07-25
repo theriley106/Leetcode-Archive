@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 import requests
 import bs4
 import removeComments
@@ -5,6 +6,10 @@ import ast, astunparse
 import sys
 import os
 import datetime
+import sys  
+
+reload(sys)  
+sys.setdefaultencoding('utf-8')
 
 def convert_date(relative):
     #using simplistic year (no leap months are 30 days long.
@@ -15,7 +20,7 @@ def convert_date(relative):
                     ('millis', 'microseconds', 1000),
                     ('sec', 'seconds', 1),
                     ('day', 'days', 1),
-                    ('week', 'days', 7),
+                    ('weeks', 'days', 7),
                     ('mon', 'days', 30),
                     ('year', 'days', 365)]
     try:
@@ -30,6 +35,7 @@ def convert_date(relative):
 
         units = dict(days = 0, seconds = 0, microseconds = 0)
         #we should always get pairs, if not we let this die and throw an exception
+        print tokens
         while len(tokens) > 0:
             value = tokens.pop(0)
             if value == 'and':    #just skip this token
@@ -62,7 +68,10 @@ def remove_comments(fileName):
 
 def get_code_for_question(page):
 	print page.title.string
-	print(convert_date(page.select("#result_date")[0].getText()))
+	x = page.select("#result_date")[0].getText().replace(",", " and")
+	x = str(x).replace('\xc2\xa0', ' ')
+	date = convert_date(x)
+	print date
 	question = str(page).partition("submissionCode: '")[2].partition("editCodeUrl")[0][::-1].partition("'")[2][::-1]
 	return question.decode('unicode_escape').replace('\\', '')
 
@@ -73,7 +82,10 @@ if __name__ == '__main__':
 		text_file.write(get_code_for_question(page))
 	with open("tmp2.py", "w") as text_file:
 		text_file.write(remove_comments("tmp").strip())
-	fileName = str(page.title.string).replace(" ", "-").partition("---")[0]
+	title = str(page.title.string)
+	if title[0] == "(":
+		title = title.partition(" ")[2]
+	fileName = title.replace(" ", "-").partition("---")[0]
 	os.system("autopep8 tmp2.py --in-place")
 	os.system("carbon-now tmp2.py -t screenshots/{}".format(fileName))
 	os.system("mv tmp2.py code/{}.py".format(fileName))
