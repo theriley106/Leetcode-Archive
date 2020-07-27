@@ -35,7 +35,6 @@ Collection of solutions to the 600+ Leetcode questions I've solved over the past
   * [August (7 questions)](#August)
   * [July (11 questions)](#July)
   * [June (3 questions)](#June)
-  * [January (8 questions)](#January)
 
 
 
@@ -2380,36 +2379,3 @@ Collection of solutions to the 600+ Leetcode questions I've solved over the past
 ### [Search in Rotated Sorted Array - #33 | Difficulty: Medium](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [View Code](code/Search-in-Rotated-Sorted-Array.py)
 
 <p align="center"><img src="screenshots/Search-in-Rotated-Sorted-Array.png" width="650" /></p>
-
-## January
-
-### [Student Attendance Record I - #551 | Difficulty: Easy](https://leetcode.com/problems/student-attendance-record-i/) | [View Code](code/Student-Attendance-Record-I.py)
-
-<p align="center"><img src="screenshots/Student-Attendance-Record-I.png" width="650" /></p>
-
-### [Move Zeroes - #283 | Difficulty: Easy](https://leetcode.com/problems/move-zeroes/) | [View Code](code/Move-Zeroes.py)
-
-<p align="center"><img src="screenshots/Move-Zeroes.png" width="650" /></p>
-
-### [Add Digits - #258 | Difficulty: Easy](https://leetcode.com/problems/add-digits/) | [View Code](code/Add-Digits.py)
-
-<p align="center"><img src="screenshots/Add-Digits.png" width="650" /></p>
-
-### [Majority Element - #169 | Difficulty: Easy](https://leetcode.com/problems/majority-element/) | [View Code](code/Majority-Element.py)
-
-<p align="center"><img src="screenshots/Majority-Element.png" width="650" /></p>
-
-### [Valid Palindrome - #125 | Difficulty: Easy](https://leetcode.com/problems/valid-palindrome/) | [View Code](code/Valid-Palindrome.py)
-
-<p align="center"><img src="screenshots/Valid-Palindrome.png" width="650" /></p>
-
-### [Length of Last Word - #58 | Difficulty: Easy](https://leetcode.com/problems/length-of-last-word/) | [View Code](code/Length-of-Last-Word.py)
-
-<p align="center"><img src="screenshots/Length-of-Last-Word.png" width="650" /></p>
-
-### [Search Insert Position - #35 | Difficulty: Easy](https://leetcode.com/problems/search-insert-position/) | [View Code](code/Search-Insert-Position.py)
-
-<p align="center"><img src="screenshots/Search-Insert-Position.png" width="650" /></p>
-
-
-# 2017
