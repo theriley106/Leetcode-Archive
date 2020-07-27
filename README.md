@@ -40,10 +40,6 @@
 
 <p align="center"><img src="screenshots/Range-Sum-of-Sorted-Subarray-Sums.png" width="650" /></p>
 
-### [Longest Subarray of 1's After Deleting One Element - #1493 | Difficulty: Medium](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/) | [View Code](code/Longest-Subarray-of-1's-After-Deleting-One-Element.py)
-
-<p align="center"><img src="screenshots/Longest-Subarray-of-1's-After-Deleting-One-Element.png" width="650" /></p>
-
 ### [Maximum 69 Number - #1323 | Difficulty: Easy](https://leetcode.com/problems/maximum-69-number/) | [View Code](code/Maximum-69-Number.py)
 
 <p align="center"><img src="screenshots/Maximum-69-Number.png" width="650" /></p>
@@ -170,10 +166,6 @@
 
 <p align="center"><img src="screenshots/Maximum-Frequency-Stack.png" width="650" /></p>
 
-### [Implement Rand10() Using Rand7() - #470 | Difficulty: Medium](https://leetcode.com/problems/implement-rand10-using-rand7/) | [View Code](code/Implement-Rand10()-Using-Rand7().py)
-
-<p align="center"><img src="screenshots/Implement-Rand10()-Using-Rand7().png" width="650" /></p>
-
 ### [Find And Replace in String - #833 | Difficulty: Medium](https://leetcode.com/problems/find-and-replace-in-string/) | [View Code](code/Find-And-Replace-in-String.py)
 
 <p align="center"><img src="screenshots/Find-And-Replace-in-String.png" width="650" /></p>
@@ -220,10 +212,6 @@
 
 <p align="center"><img src="screenshots/Longest-Continuous-Subarray-With-Absolute-Diff-Less-Than-or-Equal-to-Limit.png" width="650" /></p>
 
-### [Check If All 1's Are at Least Length K Places Away - #1437 | Difficulty: Medium](https://leetcode.com/problems/check-if-all-1s-are-at-least-length-k-places-away/) | [View Code](code/Check-If-All-1's-Are-at-Least-Length-K-Places-Away.py)
-
-<p align="center"><img src="screenshots/Check-If-All-1's-Are-at-Least-Length-K-Places-Away.png" width="650" /></p>
-
 ### [Destination City - #1436 | Difficulty: Easy](https://leetcode.com/problems/destination-city/) | [View Code](code/Destination-City.py)
 
 <p align="center"><img src="screenshots/Destination-City.png" width="650" /></p>
@@ -239,10 +227,6 @@
 ### [Kids With the Greatest Number of Candies - #1431 | Difficulty: Easy](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) | [View Code](code/Kids-With-the-Greatest-Number-of-Candies.py)
 
 <p align="center"><img src="screenshots/Kids-With-the-Greatest-Number-of-Candies.png" width="650" /></p>
-
-### [Tweet Counts Per Frequency - #1348 | Difficulty: Medium](https://leetcode.com/problems/tweet-counts-per-frequency/) | [View Code](code/Tweet-Counts-Per-Frequency.py)
-
-<p align="center"><img src="screenshots/Tweet-Counts-Per-Frequency.png" width="650" /></p>
 
 ### [Check If a String Is a Valid Sequence from Root to Leaves Path in a Binary Tree - #1430 | Difficulty: Medium](https://leetcode.com/problems/check-if-a-string-is-a-valid-sequence-from-root-to-leaves-path-in-a-binary-tree/) | [View Code](code/Check-If-a-String-Is-a-Valid-Sequence-from-Root-to-Leaves-Path-in-a-Binary-Tree.py)
 
@@ -462,10 +446,6 @@
 
 <p align="center"><img src="screenshots/Copy-List-with-Random-Pointer.png" width="650" /></p>
 
-### [Minimum Window Substring - #76 | Difficulty: Hard](https://leetcode.com/problems/minimum-window-substring/) | [View Code](code/Minimum-Window-Substring.py)
-
-<p align="center"><img src="screenshots/Minimum-Window-Substring.png" width="650" /></p>
-
 ### [Longest Valid Parentheses - #32 | Difficulty: Hard](https://leetcode.com/problems/longest-valid-parentheses/) | [View Code](code/Longest-Valid-Parentheses.py)
 
 <p align="center"><img src="screenshots/Longest-Valid-Parentheses.png" width="650" /></p>
@@ -552,10 +532,6 @@
 
 <p align="center"><img src="screenshots/Minimum-Size-Subarray-Sum.png" width="650" /></p>
 
-### [Pascal's Triangle II - #119 | Difficulty: Easy](https://leetcode.com/problems/pascals-triangle-ii/) | [View Code](code/Pascal's-Triangle-II.py)
-
-<p align="center"><img src="screenshots/Pascal's-Triangle-II.png" width="650" /></p>
-
 ### [Valid Number - #65 | Difficulty: Hard](https://leetcode.com/problems/valid-number/) | [View Code](code/Valid-Number.py)
 
 <p align="center"><img src="screenshots/Valid-Number.png" width="650" /></p>
@@ -629,10 +605,6 @@
 ### [Rank Transform of an Array - #1331 | Difficulty: Easy](https://leetcode.com/problems/rank-transform-of-an-array/) | [View Code](code/Rank-Transform-of-an-Array.py)
 
 <p align="center"><img src="screenshots/Rank-Transform-of-an-Array.png" width="650" /></p>
-
-### [Sort the Matrix Diagonally - #1329 | Difficulty: Medium](https://leetcode.com/problems/sort-the-matrix-diagonally/) | [View Code](code/Sort-the-Matrix-Diagonally.py)
-
-<p align="center"><img src="screenshots/Sort-the-Matrix-Diagonally.png" width="650" /></p>
 
 ### [Iterator for Combination - #1286 | Difficulty: Medium](https://leetcode.com/problems/iterator-for-combination/) | [View Code](code/Iterator-for-Combination.py)
 
@@ -743,10 +715,6 @@
 ### [Roman to Integer - #13 | Difficulty: Easy](https://leetcode.com/problems/roman-to-integer/) | [View Code](code/Roman-to-Integer.py)
 
 <p align="center"><img src="screenshots/Roman-to-Integer.png" width="650" /></p>
-
-### [String to Integer (atoi) - #8 | Difficulty: Medium](https://leetcode.com/problems/string-to-integer-atoi/) | [View Code](code/String-to-Integer-(atoi).py)
-
-<p align="center"><img src="screenshots/String-to-Integer-(atoi).png" width="650" /></p>
 
 ### [Longest Substring Without Repeating Characters - #3 | Difficulty: Medium](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [View Code](code/Longest-Substring-Without-Repeating-Characters.py)
 
@@ -963,10 +931,6 @@
 ### [Course Schedule II - #210 | Difficulty: Medium](https://leetcode.com/problems/course-schedule-ii/) | [View Code](code/Course-Schedule-II.py)
 
 <p align="center"><img src="screenshots/Course-Schedule-II.png" width="650" /></p>
-
-### [Implement Trie (Prefix Tree) - #208 | Difficulty: Medium](https://leetcode.com/problems/implement-trie-prefix-tree/) | [View Code](code/Implement-Trie-(Prefix-Tree).py)
-
-<p align="center"><img src="screenshots/Implement-Trie-(Prefix-Tree).png" width="650" /></p>
 
 ### [Factorial Trailing Zeroes - #172 | Difficulty: Easy](https://leetcode.com/problems/factorial-trailing-zeroes/) | [View Code](code/Factorial-Trailing-Zeroes.py)
 
@@ -1228,10 +1192,6 @@
 
 <p align="center"><img src="screenshots/Flatten-Binary-Tree-to-Linked-List.png" width="650" /></p>
 
-### [Word Search - #79 | Difficulty: Medium](https://leetcode.com/problems/word-search/) | [View Code](code/Word-Search.py)
-
-<p align="center"><img src="screenshots/Word-Search.png" width="650" /></p>
-
 ### [Set Matrix Zeroes - #73 | Difficulty: Medium](https://leetcode.com/problems/set-matrix-zeroes/) | [View Code](code/Set-Matrix-Zeroes.py)
 
 <p align="center"><img src="screenshots/Set-Matrix-Zeroes.png" width="650" /></p>
@@ -1480,10 +1440,6 @@
 
 <p align="center"><img src="screenshots/Find-Peak-Element.png" width="650" /></p>
 
-### [Pascal's Triangle - #118 | Difficulty: Easy](https://leetcode.com/problems/pascals-triangle/) | [View Code](code/Pascal's-Triangle.py)
-
-<p align="center"><img src="screenshots/Pascal's-Triangle.png" width="650" /></p>
-
 ### [Path Sum - #112 | Difficulty: Easy](https://leetcode.com/problems/path-sum/) | [View Code](code/Path-Sum.py)
 
 <p align="center"><img src="screenshots/Path-Sum.png" width="650" /></p>
@@ -1496,10 +1452,6 @@
 
 <p align="center"><img src="screenshots/Search-a-2D-Matrix.png" width="650" /></p>
 
-### [Sqrt(x) - #69 | Difficulty: Easy](https://leetcode.com/problems/sqrtx/) | [View Code](code/Sqrt(x).py)
-
-<p align="center"><img src="screenshots/Sqrt(x).png" width="650" /></p>
-
 ### [Group Anagrams - #49 | Difficulty: Medium](https://leetcode.com/problems/group-anagrams/) | [View Code](code/Group-Anagrams.py)
 
 <p align="center"><img src="screenshots/Group-Anagrams.png" width="650" /></p>
@@ -1507,10 +1459,6 @@
 ### [Find First and Last Position of Element in Sorted Array - #34 | Difficulty: Medium](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [View Code](code/Find-First-and-Last-Position-of-Element-in-Sorted-Array.py)
 
 <p align="center"><img src="screenshots/Find-First-and-Last-Position-of-Element-in-Sorted-Array.png" width="650" /></p>
-
-### [Implement strStr() - #28 | Difficulty: Easy](https://leetcode.com/problems/implement-strstr/) | [View Code](code/Implement-strStr().py)
-
-<p align="center"><img src="screenshots/Implement-strStr().png" width="650" /></p>
 
 ### [Longest Common Prefix - #14 | Difficulty: Easy](https://leetcode.com/problems/longest-common-prefix/) | [View Code](code/Longest-Common-Prefix.py)
 
@@ -1885,10 +1833,6 @@
 ### [Find the Town Judge - #997 | Difficulty: Easy](https://leetcode.com/problems/find-the-town-judge/) | [View Code](code/Find-the-Town-Judge.py)
 
 <p align="center"><img src="screenshots/Find-the-Town-Judge.png" width="650" /></p>
-
-### [Rotting Oranges - #994 | Difficulty: Medium](https://leetcode.com/problems/rotting-oranges/) | [View Code](code/Rotting-Oranges.py)
-
-<p align="center"><img src="screenshots/Rotting-Oranges.png" width="650" /></p>
 
 ### [Univalued Binary Tree - #965 | Difficulty: Easy](https://leetcode.com/problems/univalued-binary-tree/) | [View Code](code/Univalued-Binary-Tree.py)
 
@@ -2416,37 +2360,9 @@
 
 <p align="center"><img src="screenshots/Length-of-Last-Word.png" width="650" /></p>
 
-### [Pow(x, n) - #50 | Difficulty: Medium](https://leetcode.com/problems/powx-n/) | [View Code](code/Pow(x,-n).py)
-
-<p align="center"><img src="screenshots/Pow(x,-n).png" width="650" /></p>
-
 ### [Search Insert Position - #35 | Difficulty: Easy](https://leetcode.com/problems/search-insert-position/) | [View Code](code/Search-Insert-Position.py)
 
 <p align="center"><img src="screenshots/Search-Insert-Position.png" width="650" /></p>
 
 ## November 2017
-
-### [Self Dividing Numbers - #728 | Difficulty: Easy](https://leetcode.com/problems/self-dividing-numbers/) | [View Code](code/Self-Dividing-Numbers.py)
-
-<p align="center"><img src="screenshots/Self-Dividing-Numbers.png" width="650" /></p>
-
-### [Robot Return to Origin - #657 | Difficulty: Easy](https://leetcode.com/problems/robot-return-to-origin/) | [View Code](code/Robot-Return-to-Origin.py)
-
-<p align="center"><img src="screenshots/Robot-Return-to-Origin.png" width="650" /></p>
-
-### [Distribute Candies - #575 | Difficulty: Easy](https://leetcode.com/problems/distribute-candies/) | [View Code](code/Distribute-Candies.py)
-
-<p align="center"><img src="screenshots/Distribute-Candies.png" width="650" /></p>
-
-### [Reverse Words in a String III - #557 | Difficulty: Easy](https://leetcode.com/problems/reverse-words-in-a-string-iii/) | [View Code](code/Reverse-Words-in-a-String-III.py)
-
-<p align="center"><img src="screenshots/Reverse-Words-in-a-String-III.png" width="650" /></p>
-
-### [Encode and Decode TinyURL - #535 | Difficulty: Medium](https://leetcode.com/problems/encode-and-decode-tinyurl/) | [View Code](code/Encode-and-Decode-TinyURL.py)
-
-<p align="center"><img src="screenshots/Encode-and-Decode-TinyURL.png" width="650" /></p>
-
-### [Number Complement - #476 | Difficulty: Easy](https://leetcode.com/problems/number-complement/) | [View Code](code/Number-Complement.py)
-
-<p align="center"><img src="screenshots/Number-Complement.png" width="650" /></p>
 
