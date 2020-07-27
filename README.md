@@ -1,35 +1,42 @@
-# Leetcode-Archive
-Collection of solutions to the 600+ Leetcode questions I've solved over the past ~2 years
 
-- [July 2020](##July 2020)
-- [June 2020](##June 2020)
-- [May 2020](##May 2020)
-- [April 2020](##April 2020)
-- [March 2020](##March 2020)
-- [February 2020](##February 2020)
-- [January 2020](##January 2020)
-- [December 2019](##December 2019)
-- [November 2019](##November 2019)
-- [October 2019](##October 2019)
-- [September 2019](##September 2019)
-- [August 2019](##August 2019)
-- [July 2019](##July 2019)
-- [June 2019](##June 2019)
-- [May 2019](##May 2019)
-- [April 2019](##April 2019)
-- [March 2019](##March 2019)
-- [February 2019](##February 2019)
-- [January 2019](##January 2019)
-- [December 2018](##December 2018)
-- [November 2018](##November 2018)
-- [October 2018](##October 2018)
-- [September 2018](##September 2018)
-- [August 2018](##August 2018)
-- [July 2018](##July 2018)
-- [June 2018](##June 2018)
-- [January 2018](##January 2018)
+- [2020](#2020)
+  * [July](#July)
+  * [June](#June)
+  * [May](#May)
+  * [April](#April)
+  * [March](#March)
+  * [February](#February)
+  * [January](#January)
 
-## July 2020
+- [2019](#2019)
+  * [December](#December)
+  * [November](#November)
+  * [October](#October)
+  * [September](#September)
+  * [August](#August)
+  * [July](#July)
+  * [June](#June)
+  * [May](#May)
+  * [April](#April)
+  * [March](#March)
+  * [February](#February)
+  * [January](#January)
+
+- [2018](#2018)
+  * [December](#December)
+  * [November](#November)
+  * [October](#October)
+  * [September](#September)
+  * [August](#August)
+  * [July](#July)
+  * [June](#June)
+  * [January](#January)
+
+
+
+
+# 2020
+## July
 
 ### [Find Root of N-Ary Tree - #1506 | Difficulty: Medium](https://leetcode.com/problems/find-root-of-n-ary-tree/) | [View Code](code/Find-Root-of-N-Ary-Tree.py)
 
@@ -103,7 +110,7 @@ Collection of solutions to the 600+ Leetcode questions I've solved over the past
 
 <p align="center"><img src="screenshots/Best-Time-to-Buy-and-Sell-Stock-II.png" width="650" /></p>
 
-## June 2020
+## June
 
 ### [Clone N-ary Tree - #1490 | Difficulty: Medium](https://leetcode.com/problems/clone-n-ary-tree/) | [View Code](code/Clone-N-ary-Tree.py)
 
@@ -213,7 +220,7 @@ Collection of solutions to the 600+ Leetcode questions I've solved over the past
 
 <p align="center"><img src="screenshots/Longest-Consecutive-Sequence.png" width="650" /></p>
 
-## May 2020
+## May
 
 ### [Maximum Number of Vowels in a Substring of Given Length - #1456 | Difficulty: Medium](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/) | [View Code](code/Maximum-Number-of-Vowels-in-a-Substring-of-Given-Length.py)
 
@@ -371,7 +378,7 @@ Collection of solutions to the 600+ Leetcode questions I've solved over the past
 
 <p align="center"><img src="screenshots/Insert-Interval.png" width="650" /></p>
 
-## April 2020
+## April
 
 ### [Diagonal Traverse II - #1424 | Difficulty: Medium](https://leetcode.com/problems/diagonal-traverse-ii/) | [View Code](code/Diagonal-Traverse-II.py)
 
@@ -481,7 +488,7 @@ Collection of solutions to the 600+ Leetcode questions I've solved over the past
 
 <p align="center"><img src="screenshots/Longest-Valid-Parentheses.png" width="650" /></p>
 
-## March 2020
+## March
 
 ### [Design Underground System - #1396 | Difficulty: Medium](https://leetcode.com/problems/design-underground-system/) | [View Code](code/Design-Underground-System.py)
 
@@ -571,7 +578,7 @@ Collection of solutions to the 600+ Leetcode questions I've solved over the past
 
 <p align="center"><img src="screenshots/Count-and-Say.png" width="650" /></p>
 
-## February 2020
+## February
 
 ### [Product of the Last K Numbers - #1352 | Difficulty: Medium](https://leetcode.com/problems/product-of-the-last-k-numbers/) | [View Code](code/Product-of-the-Last-K-Numbers.py)
 
@@ -685,7 +692,7 @@ Collection of solutions to the 600+ Leetcode questions I've solved over the past
 
 <p align="center"><img src="screenshots/Combination-Sum.png" width="650" /></p>
 
-## January 2020
+## January
 
 ### [Convert Integer to the Sum of Two No-Zero Integers - #1317 | Difficulty: Easy](https://leetcode.com/problems/convert-integer-to-the-sum-of-two-no-zero-integers/) | [View Code](code/Convert-Integer-to-the-Sum-of-Two-No-Zero-Integers.py)
 
@@ -751,7 +758,9 @@ Collection of solutions to the 600+ Leetcode questions I've solved over the past
 
 <p align="center"><img src="screenshots/Longest-Substring-Without-Repeating-Characters.png" width="650" /></p>
 
-## December 2019
+
+# 2019
+## December
 
 ### [All Elements in Two Binary Search Trees - #1305 | Difficulty: Medium](https://leetcode.com/problems/all-elements-in-two-binary-search-trees/) | [View Code](code/All-Elements-in-Two-Binary-Search-Trees.py)
 
@@ -797,7 +806,7 @@ Collection of solutions to the 600+ Leetcode questions I've solved over the past
 
 <p align="center"><img src="screenshots/Hexspeak.png" width="650" /></p>
 
-## November 2019
+## November
 
 ### [Print Immutable Linked List in Reverse - #1265 | Difficulty: Medium](https://leetcode.com/problems/print-immutable-linked-list-in-reverse/) | [View Code](code/Print-Immutable-Linked-List-in-Reverse.py)
 
@@ -823,7 +832,7 @@ Collection of solutions to the 600+ Leetcode questions I've solved over the past
 
 <p align="center"><img src="screenshots/Array-Transformation.png" width="650" /></p>
 
-## October 2019
+## October
 
 ### [Remove Sub-Folders from the Filesystem - #1233 | Difficulty: Medium](https://leetcode.com/problems/remove-sub-folders-from-the-filesystem/) | [View Code](code/Remove-Sub-Folders-from-the-Filesystem.py)
 
@@ -861,7 +870,7 @@ Collection of solutions to the 600+ Leetcode questions I've solved over the past
 
 <p align="center"><img src="screenshots/Construct-String-from-Binary-Tree.png" width="650" /></p>
 
-## September 2019
+## September
 
 ### [Unique Number of Occurrences - #1207 | Difficulty: Easy](https://leetcode.com/problems/unique-number-of-occurrences/) | [View Code](code/Unique-Number-of-Occurrences.py)
 
@@ -987,7 +996,7 @@ Collection of solutions to the 600+ Leetcode questions I've solved over the past
 
 <p align="center"><img src="screenshots/Letter-Combinations-of-a-Phone-Number.png" width="650" /></p>
 
-## August 2019
+## August
 
 ### [Day of the Year - #1154 | Difficulty: Easy](https://leetcode.com/problems/day-of-the-year/) | [View Code](code/Day-of-the-Year.py)
 
@@ -1141,7 +1150,7 @@ Collection of solutions to the 600+ Leetcode questions I've solved over the past
 
 <p align="center"><img src="screenshots/3Sum.png" width="650" /></p>
 
-## July 2019
+## July
 
 ### [Number of Equivalent Domino Pairs - #1128 | Difficulty: Easy](https://leetcode.com/problems/number-of-equivalent-domino-pairs/) | [View Code](code/Number-of-Equivalent-Domino-Pairs.py)
 
@@ -1247,7 +1256,7 @@ Collection of solutions to the 600+ Leetcode questions I've solved over the past
 
 <p align="center"><img src="screenshots/Longest-Palindromic-Substring.png" width="650" /></p>
 
-## June 2019
+## June
 
 ### [Duplicate Zeros - #1089 | Difficulty: Easy](https://leetcode.com/problems/duplicate-zeros/) | [View Code](code/Duplicate-Zeros.py)
 
@@ -1353,7 +1362,7 @@ Collection of solutions to the 600+ Leetcode questions I've solved over the past
 
 <p align="center"><img src="screenshots/Integer-to-Roman.png" width="650" /></p>
 
-## May 2019
+## May
 
 ### [Height Checker - #1051 | Difficulty: Easy](https://leetcode.com/problems/height-checker/) | [View Code](code/Height-Checker.py)
 
@@ -1495,7 +1504,7 @@ Collection of solutions to the 600+ Leetcode questions I've solved over the past
 
 <p align="center"><img src="screenshots/Longest-Common-Prefix.png" width="650" /></p>
 
-## April 2019
+## April
 
 ### [Two City Scheduling - #1029 | Difficulty: Easy](https://leetcode.com/problems/two-city-scheduling/) | [View Code](code/Two-City-Scheduling.py)
 
@@ -1645,7 +1654,7 @@ Collection of solutions to the 600+ Leetcode questions I've solved over the past
 
 <p align="center"><img src="screenshots/Merge-Intervals.png" width="650" /></p>
 
-## March 2019
+## March
 
 ### [Complement of Base 10 Integer - #1009 | Difficulty: Easy](https://leetcode.com/problems/complement-of-base-10-integer/) | [View Code](code/Complement-of-Base-10-Integer.py)
 
@@ -1855,7 +1864,7 @@ Collection of solutions to the 600+ Leetcode questions I've solved over the past
 
 <p align="center"><img src="screenshots/Valid-Parentheses.png" width="650" /></p>
 
-## February 2019
+## February
 
 ### [Available Captures for Rook - #999 | Difficulty: Easy](https://leetcode.com/problems/available-captures-for-rook/) | [View Code](code/Available-Captures-for-Rook.py)
 
@@ -1945,7 +1954,7 @@ Collection of solutions to the 600+ Leetcode questions I've solved over the past
 
 <p align="center"><img src="screenshots/Container-With-Most-Water.png" width="650" /></p>
 
-## January 2019
+## January
 
 ### [Squares of a Sorted Array - #977 | Difficulty: Easy](https://leetcode.com/problems/squares-of-a-sorted-array/) | [View Code](code/Squares-of-a-Sorted-Array.py)
 
@@ -2039,7 +2048,9 @@ Collection of solutions to the 600+ Leetcode questions I've solved over the past
 
 <p align="center"><img src="screenshots/Reverse-Integer.png" width="650" /></p>
 
-## December 2018
+
+# 2018
+## December
 
 ### [N-Repeated Element in Size 2N Array - #961 | Difficulty: Easy](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/) | [View Code](code/N-Repeated-Element-in-Size-2N-Array.py)
 
@@ -2049,7 +2060,7 @@ Collection of solutions to the 600+ Leetcode questions I've solved over the past
 
 <p align="center"><img src="screenshots/Max-Increase-to-Keep-City-Skyline.png" width="650" /></p>
 
-## November 2018
+## November
 
 ### [Sort Array By Parity II - #922 | Difficulty: Easy](https://leetcode.com/problems/sort-array-by-parity-ii/) | [View Code](code/Sort-Array-By-Parity-II.py)
 
@@ -2095,7 +2106,7 @@ Collection of solutions to the 600+ Leetcode questions I've solved over the past
 
 <p align="center"><img src="screenshots/Swap-Nodes-in-Pairs.png" width="650" /></p>
 
-## October 2018
+## October
 
 ### [Unique Email Addresses - #929 | Difficulty: Easy](https://leetcode.com/problems/unique-email-addresses/) | [View Code](code/Unique-Email-Addresses.py)
 
@@ -2129,7 +2140,7 @@ Collection of solutions to the 600+ Leetcode questions I've solved over the past
 
 <p align="center"><img src="screenshots/Climbing-Stairs.png" width="650" /></p>
 
-## September 2018
+## September
 
 ### [Sort Array By Parity - #905 | Difficulty: Easy](https://leetcode.com/problems/sort-array-by-parity/) | [View Code](code/Sort-Array-By-Parity.py)
 
@@ -2275,7 +2286,7 @@ Collection of solutions to the 600+ Leetcode questions I've solved over the past
 
 <p align="center"><img src="screenshots/Two-Sum.png" width="650" /></p>
 
-## August 2018
+## August
 
 ### [Minimum Moves to Equal Array Elements II - #462 | Difficulty: Medium](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/) | [View Code](code/Minimum-Moves-to-Equal-Array-Elements-II.py)
 
@@ -2305,7 +2316,7 @@ Collection of solutions to the 600+ Leetcode questions I've solved over the past
 
 <p align="center"><img src="screenshots/Median-of-Two-Sorted-Arrays.png" width="650" /></p>
 
-## July 2018
+## July
 
 ### [Transpose Matrix - #867 | Difficulty: Easy](https://leetcode.com/problems/transpose-matrix/) | [View Code](code/Transpose-Matrix.py)
 
@@ -2351,7 +2362,7 @@ Collection of solutions to the 600+ Leetcode questions I've solved over the past
 
 <p align="center"><img src="screenshots/Counting-Bits.png" width="650" /></p>
 
-## June 2018
+## June
 
 ### [Most Common Word - #819 | Difficulty: Easy](https://leetcode.com/problems/most-common-word/) | [View Code](code/Most-Common-Word.py)
 
@@ -2365,7 +2376,7 @@ Collection of solutions to the 600+ Leetcode questions I've solved over the past
 
 <p align="center"><img src="screenshots/Search-in-Rotated-Sorted-Array.png" width="650" /></p>
 
-## January 2018
+## January
 
 ### [Student Attendance Record I - #551 | Difficulty: Easy](https://leetcode.com/problems/student-attendance-record-i/) | [View Code](code/Student-Attendance-Record-I.py)
 
@@ -2395,3 +2406,5 @@ Collection of solutions to the 600+ Leetcode questions I've solved over the past
 
 <p align="center"><img src="screenshots/Search-Insert-Position.png" width="650" /></p>
 
+
+# 2017
