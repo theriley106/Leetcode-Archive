@@ -2364,5 +2364,3 @@
 
 <p align="center"><img src="screenshots/Search-Insert-Position.png" width="650" /></p>
 
-## November 2017
-
